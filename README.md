@@ -20,7 +20,7 @@ Within the Angular project run:
 
 ```
 npm i @fireflysemantics/ng-amplify
-cd node_modules/@fireflysemantics/ng-amplify/ && npm i && cd ../..
+cd node_modules/@fireflysemantics/ng-amplify/ && npm i && cd ../../..
 node node_modules/@fireflysemantics/ng-amplify/cp.js
 ```
 The node script `cp.js` will copy over the relevant resources.
