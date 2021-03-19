@@ -1,5 +1,3 @@
-# @fireflysemantics/ng-amplify
-
 # AWS Amplify Angular Resources 
 
 This package contains the following Angular specific resources updated to work with AWS Amplify:
