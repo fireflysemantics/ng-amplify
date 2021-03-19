@@ -1,0 +1,27 @@
+{
+  "name": "@fireflysemantics/ng-amplify",
+  "version": "11.0.0",
+  "description": "Angular AWS Amplify Resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireflysemantics/ng-amplify.git"
+  },
+  "keywords": ["javascript", "aws", "amplify", "fireflysemantics"],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fireflysemantics/ng-amplify/issues"
+  },
+  "homepage": "https://github.com/fireflysemantics/ng-amplify#readme",
+  "dependencies": {
+    "aws-amplify": "*"
+  },
+  "devDependencies": {
+    "cpx": "^1.5.0",
+    "node-pretty-log": "^1.1.0"
+  }  
+}
